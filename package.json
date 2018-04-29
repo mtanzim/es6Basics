@@ -1,0 +1,23 @@
+{
+  "name": "lyndaes6essentials",
+  "version": "1.0.0",
+  "description": "lynda babel exercise",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node_modules\\.bin\\webpack"
+  },
+  "author": "Tanzim Mokammel",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.6.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "babel-preset-env": "^1.6.0",
+    "webpack": "^3.1.0",
+    "webpack-cli": "^2.0.15"
+  }
+
+}
